@@ -4,5 +4,7 @@ public class GitHello {
         System.out.println("hello,git baby~!");
         System.out.println("hello,git baby baby~!");
         System.out.println("hello,git baby baby baby~!");
+        System.out.println("hello,master baby ~!");
+        System.out.println("hello,git baby baby baby~!");
     }
 }
